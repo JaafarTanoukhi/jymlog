@@ -1,16 +1,21 @@
-# jymlog
+# JymLog
 
-A new Flutter project.
+A small Flutter app that helps me track my gym progress.
+
+## Features
+- Log workouts and exercises.
+- Track progress over time.
+- Simple and intuitive interface.
 
 ## Getting Started
+1. Clone the repository: `git clone https://github.com/your-username/jymlog.git`
+2. Navigate to the project directory: `cd jymlog`
+3. Install dependencies: `flutter pub get`
+4. Run the app: `flutter run`
 
-This project is a starting point for a Flutter application.
+## Requirements
+- Flutter 3.x or higher
+- Dart SDK
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the [MIT License](LICENSE).
